@@ -1,5 +1,5 @@
 
-## Reading the numerous medical papers during the COVID-19 pandemic
+## Continual BERT: Continual Learning for Adaptive Extractive Summarization of COVID-19 Literature
 
 ### Introduction
 
