@@ -15,7 +15,7 @@ setup(
         'tensorboard',
         'tensorboardX',
         'tensorflow',
-        'torch==1.7.1',
+        'torch==2.2.0',
         'transformers',
         'tqdm',
         'seaborn',
